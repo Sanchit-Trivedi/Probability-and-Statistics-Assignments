@@ -1,0 +1,10 @@
+The computed values are :
+
+The Correlation Coefficient between H Index and Impact Factor is :  0.44940183407640283
+
+The Regression Coefficients A and B of the form AX+B are :
+A:  0.02052018585286733  B:  1.2402270829829305
+
+The Mean Square error:  1.234090777676236
+
+The Predicted Impact Factors for conferences are stored in file: ConferencesFinal.csv 

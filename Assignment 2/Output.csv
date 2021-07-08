@@ -1,0 +1,503 @@
+Combinations,Mean Squared Error,Mean Absolute Error
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.06846799145564753,0.16987756294419706
+"['SJR', 'H index', 'Total Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.06893230166921142,0.17022598127341992
+"['SJR', 'H index', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.06895325874678296,0.16990039254904094
+"['SJR', 'H index', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.06897783375736853,0.170265889722266
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.06900305467628154,0.1683137556815337
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.06900925204869449,0.1683625921111851
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.06903805870704355,0.16921238711273504
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.06908149389589825,0.1680889732478884
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.06908168718688043,0.1680639136357339
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Refs.', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.0691244973727198,0.169325948638453
+"['SJR', 'H index', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.06919837222493308,0.16917584799708246
+"['SJR', 'H index', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.0693374465002678,0.17056657461936395
+"['SJR', 'H index', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.06948023043263124,0.1689650194940161
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.0695453171934679,0.16812616810908523
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.06976173168982168,0.16730456542338984
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.06980424350629608,0.16983183236660354
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.06980757902824608,0.16722425370025154
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.06980782303395351,0.16984001523345385
+"['SJR', 'H index', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07017325795385136,0.16985130722478678
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07022362446168287,0.1693462418455637
+"['SJR', 'H index', 'Total Refs.', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07025592013882177,0.16862943076308412
+"['SJR', 'H index', 'Total Docs. (2017)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07030456027430347,0.16955146437179955
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Refs.', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07040320427565326,0.16917796502846338
+"['SJR', 'H index', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07043652610471118,0.16852974763418763
+"['SJR', 'Total Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.0704816027672425,0.16857992992287124
+"['SJR', 'Total Docs. (3years)', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07050888331199825,0.16834173429927518
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07054769158118904,0.16809769882131412
+"['SJR', 'H index', 'Total Docs. (2017)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07057419250380911,0.16942085557067516
+"['SJR', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07057639527119924,0.16867186049549043
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07070313172239089,0.169564208102582
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07091397017617886,0.16906180425229553
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07091764554790674,0.1691346754715769
+"['SJR', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07096117772596265,0.16865844277613384
+"['SJR', 'Total Docs. (3years)', 'Total Refs.', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07101052972169532,0.1680547380274519
+"['SJR', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07106271507338809,0.16680854676339976
+"['SJR', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07111050774038184,0.16801238841926147
+"['SJR', 'Total Docs. (2017)', 'Total Refs.', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07111457128891181,0.16692093824090332
+"['SJR', 'Total Docs. (2017)', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07122793602686715,0.16709837062637295
+"['SJR', 'Total Refs.', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07123479797069325,0.16810779679962154
+"['SJR', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07126749706111249,0.16803366429459074
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.0712794506150526,0.16694708481294673
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07130071376109944,0.16626241666552793
+"['SJR', 'Total Docs. (2017)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07133539245479609,0.16727411620260998
+"['SJR', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07135061928134265,0.1681497209742968
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.0713774282071133,0.16667473063364108
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07145200702398952,0.16730559395468358
+"['SJR', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07153083653094378,0.16959973625100372
+"['SJR', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07172139760313834,0.166695082508593
+"['SJR', 'Total Docs. (2017)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07172474532244948,0.16715911722545235
+"['SJR', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07185615834119549,0.16749519897751147
+"['SJR', 'Total Docs. (2017)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07195279546927327,0.16747742495290036
+"['SJR', 'Total Docs. (2017)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07206452431167479,0.16646307328445248
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07213037947920799,0.16933980371562346
+"['SJR', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07217629980863205,0.16646730224564146
+"['SJR', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.0721959332698472,0.16706481084085287
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07246019838913767,0.16953224678899184
+"['SJR', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07248760493489044,0.16973154612920685
+"['SJR', 'H index', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07277420189200168,0.17206209666837724
+"['SJR', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07299278989315422,0.17187136891436386
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07329642952851327,0.16859441942344958
+"['SJR', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07343518400108925,0.17091900854665465
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.0736134597340746,0.17026517004860522
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07373000008135593,0.17000677063457958
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.07401784199562536,0.16931591280781308
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.07627276541258628,0.16958320413746952
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Refs.', 'Cites / Doc. (2years)']",0.0765710624121433,0.17077520948637373
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.07680651610550426,0.16948744219398104
+"['SJR', 'H index', 'Total Docs. (3years)', 'Cites / Doc. (2years)']",0.0768322324343249,0.17058755639727763
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.07698819541139552,0.17053394321358684
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.07700418380085144,0.17036683470791814
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.07707317498259354,0.17379098560273584
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.07707939007036538,0.1677985522504984
+"['SJR', 'H index', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.07725168114914166,0.17079598207766378
+"['SJR', 'H index', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.07727913806091383,0.1707771185546021
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.07750419551075816,0.17444846553711482
+"['SJR', 'H index', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.07755459130453554,0.1705802213273746
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.07760249424768431,0.16907453819584595
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.07770808455577022,0.17075542537422214
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.07776205156591146,0.16761636299178143
+"['SJR', 'H index', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.07795425877062648,0.17161176383606075
+"['SJR', 'H index', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.07795735790010573,0.1715359846425179
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.0782238467326169,0.174181927308098
+"['SJR', 'H index', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.07825236610610187,0.1720271847796875
+"['SJR', 'H index', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.07827281293798943,0.17204381325739335
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Cites / Doc. (2years)']",0.07834643702753105,0.17075799461957542
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.0789610060324349,0.1753157994524912
+"['SJR', 'H index', 'Total Docs. (2017)', 'Cites / Doc. (2years)']",0.07914304824433016,0.17107917711425413
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.07940285953206416,0.1694827243509399
+"['SJR', 'H index', 'Total Docs. (2017)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.0794260521046645,0.17118510274468368
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Cites / Doc. (2years)']",0.07965901530100138,0.17442256844476228
+"['SJR', 'Total Docs. (3years)', 'Cites / Doc. (2years)']",0.08003107327537713,0.17432533756797258
+"['SJR', 'Total Docs. (3years)', 'Total Refs.', 'Cites / Doc. (2years)']",0.08017167292203371,0.1742692538749987
+"['SJR', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.08021046026439212,0.17368582803297106
+"['SJR', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.08032582181990712,0.17427062629170678
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.08040551921033147,0.17412618203052724
+"['SJR', 'Total Docs. (3years)', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.0805602107557294,0.174406280787691
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.08060415317972919,0.17427285953060334
+"['SJR', 'Total Docs. (2017)', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.08069031578943865,0.17298556210059268
+"['SJR', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.08070605205083618,0.17392740603385057
+"['SJR', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.08075703113023813,0.17411263229300955
+"['SJR', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.08080606477212006,0.17444567249480475
+"['SJR', 'Total Docs. (2017)', 'Cites / Doc. (2years)']",0.0809043213018512,0.17343930922655493
+"['SJR', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.08112914445723758,0.17516791375341179
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Refs.', 'Cites / Doc. (2years)']",0.08113040462238758,0.1740583223173295
+"['SJR', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.0812065142143458,0.17792143790244627
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.08123506387613096,0.17445675745080466
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Cites / Doc. (2years)']",0.08126334647565968,0.17352875240849897
+"['SJR', 'H index', 'Total Refs.', 'Cites / Doc. (2years)']",0.08141608337605867,0.17270231179666745
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.08147803246587502,0.17218946584931133
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Cites / Doc. (2years)']",0.08177887612734866,0.17593189420394637
+"['SJR', 'Total Docs. (2017)', 'Total Refs.', 'Cites / Doc. (2years)']",0.08182183145856539,0.1759187833787983
+"['SJR', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.08183600338469142,0.1753209542220359
+"['SJR', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.08192888970442197,0.17586696771941196
+"['SJR', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.08196045268942634,0.17590263894155794
+"['SJR', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.08202466207533814,0.17443336596024317
+"['SJR', 'Total Docs. (2017)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.08204257018298106,0.17392445192503495
+"['SJR', 'Total Refs.', 'Cites / Doc. (2years)']",0.08256270503360667,0.174745331593435
+"['SJR', 'Total Docs. (2017)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.08259219487136023,0.17590925638667002
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.08261049205421928,0.175393706445131
+"['SJR', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.08262293470366491,0.17994476373034857
+"['SJR', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.08292161538106696,0.1768559751191103
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.08301637618792139,0.1803662200173816
+"['SJR', 'Total Docs. (2017)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.08304471036227022,0.17475999835273312
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.08316392881060984,0.17860801158591338
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.08334442983901677,0.18058432228223495
+"['SJR', 'H index', 'Cites / Doc. (2years)']",0.0839998312599496,0.1776022623932983
+"['SJR', 'Cites / Doc. (2years)']",0.08410701140363781,0.17777709535295283
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.08430749948389238,0.17915942009086647
+"['Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08512237815548959,0.1810174599950227
+"['Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08513513458302226,0.17923806673343892
+"['Total Docs. (2017)', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.0851418855603428,0.17925989682460733
+"['Total Docs. (3years)', 'Total Refs.', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08514341980672786,0.18115859378278287
+"['Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08517268612758999,0.181661784789929
+"['Total Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08520110627683318,0.18158398216497532
+"['H index', 'Total Docs. (2017)', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.0852531101149819,0.17855194303103147
+"['Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08527256078866038,0.17958292652215926
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08527732065193833,0.1812604229237484
+"['H index', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08528052201619012,0.178592007758176
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08531003344806,0.18139174341005573
+"['Total Docs. (2017)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08532536106273776,0.18113487772250714
+"['Total Docs. (2017)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08534033748657967,0.18119761029372836
+"['Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.0853644043885771,0.17975370386211986
+"['H index', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08539871193353417,0.1788422591948778
+"['H index', 'Total Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08547961527964036,0.17953892767066137
+"['H index', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08549193895520683,0.17922683081714771
+"['H index', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08552960764516294,0.17938961234411244
+"['H index', 'Total Docs. (3years)', 'Total Refs.', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08555700510964677,0.1783438464603366
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08561723575207225,0.17790638695460012
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.0856535158115489,0.1784044622486601
+"['H index', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08572927684614763,0.17795740150828263
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08574971949712165,0.17911195185462986
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08580066316607987,0.17923806608885492
+"['H index', 'Total Docs. (2017)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08580182861764202,0.1774601002894552
+"['Total Docs. (3years)', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08583271868820669,0.180013315647895
+"['H index', 'Total Docs. (2017)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08583538881898732,0.1781212709025901
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08590894647510519,0.17823516961657884
+"['H index', 'Total Docs. (3years)', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08593813380699175,0.17942914058321516
+"['Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08602621674190179,0.1800439318667622
+"['Total Refs.', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08605511657940172,0.1802181441203034
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08605607520118966,0.17841126938466131
+"['Total Docs. (2017)', 'Total Refs.', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08623037101343202,0.1812699010792852
+"['Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08624178913304863,0.18168083501628093
+"['H index', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08627845922346646,0.1790187817772184
+"['Total Docs. (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08633603906368147,0.18218285061144854
+"['H index', 'Total Docs. (2017)', 'Total Refs.', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08634743059523146,0.17676569081889532
+"['Total Docs. (2017)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08638709792385586,0.18158472169754442
+"['Total Docs. (2017)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08648855568478697,0.17966154859998
+"['H index', 'Total Docs. (2017)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.0865247415797748,0.17756836035520918
+"['H index', 'Total Refs.', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08656082998155024,0.17725178904253855
+"['H index', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08656265749980065,0.17988534218920096
+"['Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08656641344900763,0.1812629393679957
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08657605120489281,0.18241563386012408
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08661751303166017,0.18251705803598578
+"['Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08663164568632047,0.18004501300316245
+"['H index', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.0866552758666404,0.1806993679990003
+"['H index', 'Total Docs. (2017)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08665810781215,0.17883540186269398
+"['H index', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08665825391084,0.1785700490203543
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08685023072538392,0.17913062824703269
+"['H index', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08693902064298516,0.17940688072805655
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08700823441145993,0.17989500910125095
+"['Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08700944437826914,0.18176837738768298
+"['H index', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08731306634454514,0.18117010207287465
+"['Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08746326472047658,0.1832078229376262
+"['H index', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08747906352430353,0.18312250809464126
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08752346805908422,0.18187195390862754
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08760541478586517,0.18145206714168022
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08773566200541524,0.18298178833204481
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08790688037869489,0.18265343284181226
+"['Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.0879471145797647,0.18440154640346224
+"['H index', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08812129324078012,0.1839438432086334
+"['Cites / Doc. (2years)', 'Ref. / Doc.']",0.08875023379526444,0.18446741356132118
+"['H index', 'Cites / Doc. (2years)', 'Ref. / Doc.']",0.08889479291803945,0.1800026425351681
+"['H index', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.09107456188039313,0.18232266897179786
+"['Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.09113872437990869,0.18222594596532837
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.09166967706955856,0.18182636792516316
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.09167959982685377,0.18181854765405295
+"['Total Docs. (3years)', 'Total Refs.', 'Cites / Doc. (2years)']",0.09203472110603403,0.18615102826412316
+"['Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09216533208926105,0.18595229330365304
+"['Total Docs. (3years)', 'Cites / Doc. (2years)']",0.09219556173785885,0.18531342588288127
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Cites / Doc. (2years)']",0.09230241912999884,0.18470887032735092
+"['Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09231592496950596,0.18531925857675854
+"['Total Docs. (2017)', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.09235782376079875,0.18337592765813135
+"['Total Docs. (2017)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09251354211659343,0.18461812428369564
+"['Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09256809396502849,0.18250626361524375
+"['H index', 'Total Docs. (2017)', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.0925854935026022,0.1831606534850224
+"['H index', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09262135585379652,0.1825024799820341
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Cites / Doc. (2years)']",0.09267057990320418,0.18816833411232525
+"['H index', 'Total Docs. (3years)', 'Total Refs.', 'Cites / Doc. (2years)']",0.09268038571207259,0.18541592361018291
+"['Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09283948442222636,0.1864869727736629
+"['Total Docs. (2017)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09285776319399346,0.1879833432653103
+"['Total Cites (3years)', 'Cites / Doc. (2years)']",0.09286087392542908,0.18425347402441952
+"['Total Docs. (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09290437765889395,0.1861065773713844
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Cites / Doc. (2years)']",0.09298975497254794,0.18679402331359818
+"['H index', 'Total Docs. (3years)', 'Cites / Doc. (2years)']",0.0930015935664673,0.1849295770608837
+"['H index', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.0930508266183683,0.18416916141975032
+"['Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.0930558707171151,0.18518337975482538
+"['H index', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.09305623068213435,0.185183124598797
+"['H index', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.093096242636754,0.1851611860523824
+"['Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.09320272376220512,0.1853660353255839
+"['H index', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.09321230134237343,0.1853637800696126
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09324182912069116,0.1866882752255761
+"['H index', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09327930002669534,0.18492566540717628
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Cites / Doc. (2years)']",0.09333250954451086,0.18374100704020682
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09334371430164513,0.1868469985486418
+"['H index', 'Total Docs. (2017)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.0933516451003001,0.18636588367371018
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.093370183527212,0.18665614643722653
+"['Total Docs. (2017)', 'Cites / Doc. (2years)']",0.0934838607269184,0.18459827755605976
+"['H index', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09353459567747857,0.18535628029251205
+"['H index', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09357820494015436,0.1853539491033323
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.09358556411093218,0.18393196106992662
+"['H index', 'Total Docs. (2017)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09379397325212373,0.1837358671075374
+"['Total Docs. (3years)', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.09379413775658889,0.1854758901112054
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.0939047598112502,0.18384970634726097
+"['H index', 'Total Docs. (3years)', 'Total Cites (3years)', 'Cites / Doc. (2years)']",0.09395184523398831,0.18546849173489108
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09404729585246575,0.1895379855633754
+"['Total Docs. (2017)', 'Total Refs.', 'Cites / Doc. (2years)']",0.09428925130146826,0.18727969354486557
+"['H index', 'Total Docs. (2017)', 'Cites / Doc. (2years)']",0.09429944088542612,0.18408461735767184
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09431203769835358,0.1869306406140784
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09438754122059714,0.18822342067962558
+"['H index', 'Total Docs. (2017)', 'Total Refs.', 'Cites / Doc. (2years)']",0.09440512292688458,0.18577728935851584
+"['H index', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09464980808500564,0.19018022003908613
+"['Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09469413447284428,0.1877156442764363
+"['H index', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09476722426035705,0.19030013959260886
+"['Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09477036496169405,0.19019230433458692
+"['H index', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.0947816931344167,0.1877390437784362
+"['Total Docs. (2017)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09478228339067563,0.1859897158715269
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09482190487508985,0.18823510533155552
+"['Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09483343308009799,0.19027229627029743
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09492564015579222,0.18815251292618695
+"['Total Refs.', 'Cites / Doc. (2years)']",0.09494318165233202,0.1850466746378146
+"['Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09505754109613651,0.18825572657675085
+"['H index', 'Total Docs. (2017)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09512151979702002,0.1858472170445886
+"['H index', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Cites / Doc. (2years)']",0.09518322434113113,0.18822188365612635
+"['H index', 'Total Refs.', 'Cites / Doc. (2years)']",0.09636839135334872,0.18594012786071423
+"['H index', 'Cites / Doc. (2years)']",0.09824666896465914,0.1891215645874714
+"['SJR', 'H index', 'Total Refs.', 'Citable Docs. (3years)']",0.27188706064151424,0.45896052315444646
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.27230081897800695,0.45273806387856996
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Refs.']",0.2723852863196033,0.46456701008983736
+"['SJR', 'H index', 'Total Refs.', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.27338544131329007,0.46081705662399347
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Refs.', 'Ref. / Doc.']",0.27344768340513065,0.46584284014310784
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)']",0.27379232220845356,0.4553230800780613
+"['SJR', 'H index', 'Total Refs.', 'Ref. / Doc.']",0.2801113441663873,0.4796005184133822
+"['SJR', 'H index', 'Total Refs.']",0.2807949713366596,0.4804893921349762
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Ref. / Doc.']",0.2832202768052899,0.46873743961024217
+"['SJR', 'H index', 'Ref. / Doc.']",0.2850721317373706,0.48112538531270677
+"['SJR', 'H index', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.2852258729324663,0.4815492302422848
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.']",0.28537112800024095,0.4723535378817227
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Ref. / Doc.']",0.28587557597802005,0.469728685753071
+"['SJR', 'H index', 'Total Docs. (3years)', 'Ref. / Doc.']",0.2858945824072138,0.48230607930570113
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)']",0.28592612577344767,0.47267449183060467
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Refs.', 'Citable Docs. (3years)']",0.2862550962140581,0.4683051440289138
+"['SJR', 'H index', 'Total Docs. (2017)', 'Ref. / Doc.']",0.2864504566327797,0.48516146416716516
+"['SJR', 'H index', 'Total Docs. (2017)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.2869280100774083,0.46576892211892046
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Refs.', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.2870275556729333,0.4658070400499932
+"['SJR', 'H index']",0.28706330551590026,0.48352806747734584
+"['SJR', 'H index', 'Citable Docs. (3years)']",0.28729768540493905,0.4839631543955106
+"['SJR', 'H index', 'Total Docs. (3years)']",0.2882028310416132,0.48502055484821954
+"['SJR', 'H index', 'Total Docs. (2017)', 'Citable Docs. (3years)']",0.28950814912811107,0.47017791125576197
+"['SJR', 'H index', 'Total Docs. (2017)']",0.2900188483211765,0.4891953930706399
+"['SJR', 'H index', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.29073039686488455,0.476037677346701
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Refs.', 'Ref. / Doc.']",0.29666181483736864,0.4888754790860342
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Refs.']",0.29739670775447713,0.4932954356684489
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)']",0.2975056543916585,0.4649462215625118
+"['SJR', 'H index', 'Total Docs. (3years)', 'Citable Docs. (3years)']",0.2977020859368832,0.4848034687072133
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.3026854369014775,0.45951194013992314
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.3054222769661398,0.46002980591512566
+"['SJR', 'H index', 'Total Cites (3years)', 'Ref. / Doc.']",0.30674958710112216,0.505092851967536
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Citable Docs. (3years)']",0.3103412816785865,0.46904037425703105
+"['SJR', 'H index', 'Total Cites (3years)']",0.3113292866216842,0.5095637400394455
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Ref. / Doc.']",0.3255567680031114,0.5175538077268995
+"['SJR', 'H index', 'Total Refs.', 'Total Cites (3years)', 'Ref. / Doc.']",0.3286325843649675,0.5206255188048902
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Cites (3years)', 'Ref. / Doc.']",0.32887265798783005,0.5224392148767663
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Cites (3years)']",0.3329291656969849,0.525899269670283
+"['SJR', 'H index', 'Total Refs.', 'Total Cites (3years)']",0.33423794781409355,0.5262779310475628
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)']",0.334254138684033,0.5262918527526773
+"['SJR', 'Total Cites (3years)', 'Ref. / Doc.']",0.3468452388482763,0.5367078205372704
+"['SJR', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Ref. / Doc.']",0.3474135160775054,0.5337284617557365
+"['SJR', 'Total Refs.', 'Total Cites (3years)', 'Ref. / Doc.']",0.3522252957592534,0.5381330003542151
+"['SJR', 'Total Cites (3years)']",0.353188955780715,0.5417596672546245
+"['SJR', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)']",0.361798996456303,0.5460837611040793
+"['SJR', 'Total Refs.', 'Total Cites (3years)']",0.3620834547236907,0.5463236113532068
+"['SJR', 'Total Docs. (2017)', 'Total Cites (3years)', 'Ref. / Doc.']",0.3645418001836207,0.5488063170045742
+"['SJR', 'Total Docs. (2017)', 'Total Cites (3years)']",0.3696344329313543,0.5526285206949545
+"['SJR', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.4010785469834292,0.5718976582010803
+"['SJR', 'Total Docs. (3years)', 'Total Refs.', 'Ref. / Doc.']",0.409810958901295,0.5831287736977081
+"['SJR', 'Total Refs.']",0.409816452984893,0.5857836356543746
+"['SJR', 'Total Refs.', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.4100723016899873,0.5848184675425199
+"['SJR', 'Total Refs.', 'Citable Docs. (3years)']",0.41071001829228154,0.5852585920963334
+"['SJR', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)']",0.4108952094550107,0.5784457851067376
+"['SJR', 'Total Refs.', 'Ref. / Doc.']",0.4111249353365844,0.5866031583430634
+"['SJR', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.4113078616614076,0.5772194965601709
+"['SJR', 'Total Docs. (3years)', 'Total Refs.']",0.4121614488670675,0.5847093340423161
+"['SJR', 'Total Docs. (2017)', 'Ref. / Doc.']",0.4151010749825675,0.5798443126504453
+"['SJR', 'Total Docs. (3years)', 'Ref. / Doc.']",0.41510167643714274,0.5868683632614685
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Ref. / Doc.']",0.41718853739236395,0.5804046332909321
+"['SJR', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.41766432692058103,0.5883579358181992
+"['SJR', 'Total Docs. (3years)']",0.42106821273028655,0.590657800258855
+"['SJR', 'Total Docs. (2017)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.422341460535762,0.5813601392457175
+"['SJR', 'Total Docs. (2017)']",0.42279598684762204,0.5848570446943108
+"['SJR', 'Citable Docs. (3years)']",0.4229693279097113,0.5917463679220846
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)']",0.4248197767257343,0.5854611372379046
+"['SJR', 'Total Docs. (3years)', 'Citable Docs. (3years)']",0.4279144583167208,0.5886630886581489
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.42886985977885395,0.5647638803315009
+"['SJR', 'Total Docs. (2017)', 'Citable Docs. (3years)']",0.4301582446887963,0.5864349371836306
+"['SJR', 'Total Docs. (2017)', 'Total Refs.', 'Ref. / Doc.']",0.44074999839993867,0.5811853744610065
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Ref. / Doc.']",0.4411011890919958,0.5812897232104729
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Ref. / Doc.']",0.4416037446125586,0.5750896508458584
+"['SJR', 'Total Docs. (2017)', 'Total Refs.', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.4452683127587391,0.582187577081106
+"['SJR', 'Total Docs. (2017)', 'Total Refs.']",0.44556016125418263,0.5898802143450077
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Citable Docs. (3years)']",0.4456780193639357,0.5775418734533508
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.']",0.44607194875697925,0.5900275434441801
+"['SJR', 'Ref. / Doc.']",0.4483218230685005,0.61018019925035
+"['SJR', 'Total Docs. (2017)', 'Total Refs.', 'Citable Docs. (3years)']",0.44957085736666963,0.5905632717734073
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)']",0.4503030331313691,0.5820339704158959
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Ref. / Doc.']",0.45040113516967684,0.5800349553946105
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)']",0.4512669759595239,0.5824821548993189
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.45314173841305083,0.5659558393989838
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.45461788799628794,0.5759699837672623
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)']",0.4546818146719042,0.5819390252057073
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)']",0.454924049694465,0.5796499523536416
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.45637647723307234,0.5766456408880563
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Ref. / Doc.']",0.46590607416231644,0.5972256036002267
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.46676950777462806,0.5874734662861031
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.46912945827232666,0.5885785940610718
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)']",0.47189192071438607,0.5911184451641671
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)']",0.472033836183935,0.5963916246308549
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)']",0.4795615647567943,0.6074744304857846
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.48150453865809983,0.5999845954882284
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)']",0.48272200056489134,0.6052773775806033
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.4838910973959012,0.5932021326754917
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Cites (3years)', 'Citable Docs. (3years)']",0.4854786937914044,0.5971848012910015
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.48627337110466423,0.5944314255681538
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Cites (3years)', 'Ref. / Doc.']",0.4863400371877208,0.6028912960289553
+"['SJR', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.4864747957160106,0.6041334128226914
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Cites (3years)']",0.4870820126870883,0.6047081745551519
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Ref. / Doc.']",0.48718857519132763,0.6100090626685306
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)']",0.4879421695515948,0.6059179442590096
+"['SJR', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)']",0.48946769807763574,0.6129060943246123
+"['SJR', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)']",0.48973526351082447,0.6107224597825228
+"['SJR', 'H index', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)']",0.4932324626341151,0.6006709959815223
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Ref. / Doc.']",0.5021994284932464,0.6072960425415135
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)']",0.5024328713248155,0.6075387620281737
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.5051618263871417,0.6072533818839136
+"['SJR', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.5059080425065337,0.6145670812226198
+"['SJR', 'H index', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)']",0.5080891234293439,0.6111812152211843
+"['SJR', 'Total Docs. (3years)', 'Total Cites (3years)', 'Ref. / Doc.']",0.5126874661575391,0.6230710362547535
+"['SJR', 'Total Docs. (3years)', 'Total Cites (3years)']",0.5143872575083592,0.62520887856488
+"['SJR', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.5185070769059417,0.6205149222676962
+"['SJR', 'Total Docs. (2017)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.5196356813467533,0.6224912319508975
+"['SJR', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)']",0.5201898888093338,0.6253287745041622
+"['SJR', 'Total Docs. (2017)', 'Total Cites (3years)', 'Citable Docs. (3years)']",0.5205797507690678,0.625533660936057
+"['SJR', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)']",0.5248122927039177,0.6271206007154406
+"['SJR', 'H index', 'Total Cites (3years)', 'Citable Docs. (3years)']",0.5293783300579772,0.6235695097296861
+"['SJR', 'H index', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.5298914093679422,0.6219130515065763
+"['SJR', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Ref. / Doc.']",0.5317183798240459,0.6328053189650721
+"['SJR', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)']",0.5332229653033642,0.6340712150684404
+"['SJR', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.551986621098458,0.6387749159222025
+"['SJR', 'Total Cites (3years)', 'Citable Docs. (3years)']",0.5525424826522414,0.6409378211714113
+"['SJR', 'H index', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.5574681875225218,0.6297543053494873
+"['SJR', 'H index', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)']",0.5576063026922027,0.6299926546697922
+"['SJR', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",0.5856788013520025,0.6551315038354362
+"['SJR', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)']",0.5867827096264031,0.6562523711561634
+"['H index', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.0461303184003514,0.8908658188392967
+"['H index', 'Total Refs.', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.0609141889616287,0.9100838874044952
+"['H index', 'Total Docs. (2017)', 'Total Refs.', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.065900163877283,0.9108020134433337
+"['H index', 'Total Docs. (3years)', 'Total Refs.', 'Ref. / Doc.']",1.0664221582797349,0.9167488535996852
+"['H index', 'Total Docs. (2017)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.0678186158841092,0.911093852568641
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Ref. / Doc.']",1.068234241793478,0.9151443304417051
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Ref. / Doc.']",1.0703568705778543,0.9154550345044846
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.0764624366818842,0.891986324201754
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.0833418549328855,0.8927666830670187
+"['H index', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.0989565820539708,0.9229403298546085
+"['H index', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.1048707172863819,0.938509974889214
+"['H index', 'Total Docs. (3years)', 'Ref. / Doc.']",1.1064063698975517,0.9409368136083464
+"['H index', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)']",1.1081722522107296,0.9546848711319579
+"['H index', 'Total Refs.', 'Citable Docs. (3years)']",1.113437653893189,0.9615422416389326
+"['H index', 'Total Refs.', 'Ref. / Doc.']",1.1135209843274632,0.952003210917053
+"['H index', 'Total Docs. (2017)', 'Total Refs.', 'Citable Docs. (3years)']",1.1135565398927227,0.9696272615807403
+"['H index', 'Total Docs. (2017)', 'Ref. / Doc.']",1.1151829273390146,0.9545327870223649
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)']",1.1153359001411938,0.9607799377855688
+"['H index', 'Ref. / Doc.']",1.1158145858933894,0.951630883074694
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.']",1.120970109904093,0.9742054522614676
+"['H index', 'Total Docs. (3years)', 'Total Refs.']",1.121354660878177,0.9667933684756247
+"['H index', 'Total Docs. (2017)', 'Total Refs.', 'Ref. / Doc.']",1.133286448047258,0.9586792718315164
+"['H index', 'Total Cites (3years)', 'Ref. / Doc.']",1.1373244865560992,0.98109018392142
+"['H index', 'Total Docs. (2017)', 'Citable Docs. (3years)']",1.1597997607498691,0.991310347547769
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)']",1.162362184500498,0.996435928815025
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Citable Docs. (3years)']",1.1853742928696003,0.9871560567289572
+"['H index', 'Citable Docs. (3years)']",1.202302285135463,1.014543180279523
+"['H index', 'Total Refs.', 'Total Cites (3years)', 'Ref. / Doc.']",1.2038036509115184,1.004469181183342
+"['H index', 'Total Docs. (3years)']",1.2056211837098378,1.0177619169050134
+"['H index', 'Total Docs. (3years)', 'Citable Docs. (3years)']",1.2129091879636744,1.0150128870811466
+"['H index', 'Total Docs. (2017)', 'Total Refs.']",1.2152504555265493,1.0278428547187675
+"['H index', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Ref. / Doc.']",1.2178831117803497,1.0121992424077149
+"['H index', 'Total Refs.']",1.224931564925682,1.0346480832179374
+"['H index', 'Total Docs. (2017)']",1.2331548594466726,1.038632994875738
+"['H index', 'Total Docs. (2017)', 'Total Cites (3years)', 'Ref. / Doc.']",1.2566093442028472,1.0326059401034886
+"['H index', 'Total Cites (3years)']",1.274662864949694,1.072023015947641
+"['H index', 'Total Refs.', 'Total Cites (3years)']",1.3443175017817806,1.101658175828978
+"['H index', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)']",1.3827458993879305,1.1160324604431753
+"['H index', 'Total Docs. (2017)', 'Total Cites (3years)']",1.3855990093184283,1.1155467782931452
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.425916086606883,1.0493766877031172
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.4327162075845916,1.0515966330412598
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Ref. / Doc.']",1.4592046490098713,1.0751433645324457
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Ref. / Doc.']",1.4786191511610272,1.0809370752400809
+"['H index', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.4997692747752596,1.080180160720951
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)']",1.506534705607208,1.1219514951133438
+"['H index', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.5154848722019512,1.084059446341254
+"['H index', 'Total Docs. (2017)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.5175176686015894,1.0846349288684636
+"['H index', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.539000900283772,1.0871701421335085
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)']",1.5464519770143517,1.1340448251503796
+"['H index', 'Total Docs. (3years)', 'Total Cites (3years)', 'Ref. / Doc.']",1.5601566830743714,1.1060841451498562
+"['Total Refs.', 'Total Cites (3years)', 'Ref. / Doc.']",1.5722329433264828,1.1643793068477117
+"['H index', 'Total Docs. (2017)', 'Total Cites (3years)', 'Citable Docs. (3years)']",1.5769505342198646,1.140148253986504
+"['H index', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)']",1.5796106200343012,1.1470579585303728
+"['Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Ref. / Doc.']",1.5820960100281327,1.168359744855678
+"['H index', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Ref. / Doc.']",1.5871241229294415,1.112181538859881
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)']",1.6127707278932872,1.142421946467929
+"['H index', 'Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)']",1.6183481320015958,1.1482476749719024
+"['H index', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.6190565639247578,1.118107739459671
+"['H index', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)']",1.6222540214096848,1.144729264274183
+"['H index', 'Total Docs. (3years)', 'Total Cites (3years)']",1.6242308144465571,1.1569043275114412
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.6477316902312773,1.1590806252993022
+"['H index', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)']",1.654757197136319,1.1562117049639562
+"['H index', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.6636284652965683,1.1262092683086344
+"['H index', 'Total Cites (3years)', 'Citable Docs. (3years)']",1.6737425498074805,1.1691676797741348
+"['H index', 'Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)']",1.6738258902032,1.1575990053610137
+"['Total Cites (3years)', 'Ref. / Doc.']",1.6748031715913154,1.217568571674596
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.7072175139657155,1.1793971380572785
+"['H index', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)']",1.722265131584809,1.1679851333453564
+"['Total Docs. (2017)', 'Total Cites (3years)', 'Ref. / Doc.']",1.7312433748885325,1.2301151786883793
+"['Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.7502614884175105,1.1911438075166043
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Ref. / Doc.']",1.755302967594428,1.208419756285996
+"['Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.7795143550286256,1.2007556592103144
+"['Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.7913300228690858,1.2134563215574805
+"['Total Refs.', 'Total Cites (3years)']",1.8703993063837623,1.3098384713796722
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)']",1.875352735563306,1.273584865067791
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)', 'Ref. / Doc.']",1.8803541068699225,1.2472229215840067
+"['Total Docs. (2017)', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.8901221311207088,1.2438264620876602
+"['Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)']",1.9076050943506027,1.3230137683467702
+"['Total Docs. (3years)', 'Total Cites (3years)', 'Citable Docs. (3years)']",1.9110807566710653,1.2816477360507652
+"['Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Ref. / Doc.']",1.9196711167391831,1.2542223136559896
+"['Total Docs. (3years)', 'Total Cites (3years)', 'Ref. / Doc.']",1.921696879408781,1.2549089817897707
+"['Total Docs. (2017)', 'Total Cites (3years)']",1.9492634209670197,1.334307622668771
+"['Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.9533173900059597,1.2563989542173064
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)']",1.9552165113637572,1.2936909300810906
+"['Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)']",1.9664035026522724,1.2962262431274618
+"['Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",1.9806787700914206,1.2652408022312553
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Cites (3years)']",2.0220495267628977,1.3225554077146198
+"['Total Docs. (2017)', 'Total Cites (3years)', 'Citable Docs. (3years)']",2.023442476226375,1.3185209680984147
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)']",2.0413855516095913,1.3271751350687186
+"['Total Docs. (3years)', 'Total Cites (3years)']",2.054811499223309,1.3281882507088847
+"['Total Docs. (2017)', 'Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)']",2.072850267701048,1.3290850380853776
+"['Total Cites (3years)', 'Citable Docs. (3years)']",2.075716367150238,1.3292004134043645
+"['Total Docs. (3years)', 'Total Refs.', 'Total Cites (3years)']",2.0828953929915905,1.335868100845625
+"['Total Refs.', 'Total Cites (3years)', 'Citable Docs. (3years)']",2.1291186239871616,1.3405207664149619
+"['Total Docs. (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",2.3918065878868577,1.4461609611953459
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Citable Docs. (3years)', 'Ref. / Doc.']",2.3940490065123554,1.4327124152896658
+"['Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Ref. / Doc.']",2.4000807615068935,1.446868314730479
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Ref. / Doc.']",2.453843918690518,1.4796746939397392
+"['Total Docs. (3years)', 'Ref. / Doc.']",2.465318435071768,1.49024116865011
+"['Total Docs. (2017)', 'Citable Docs. (3years)', 'Ref. / Doc.']",2.4680638078984303,1.4826195249540814
+"['Total Docs. (3years)', 'Total Refs.', 'Ref. / Doc.']",2.4817956271941175,1.4910434687593814
+"['Citable Docs. (3years)', 'Ref. / Doc.']",2.484250907196301,1.4984917022704576
+"['Total Docs. (2017)', 'Ref. / Doc.']",2.4871338185497875,1.4845249764619355
+"['Total Refs.', 'Citable Docs. (3years)', 'Ref. / Doc.']",2.493462578786211,1.4992992435867178
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)', 'Ref. / Doc.']",2.5102738693008164,1.4183749765837161
+"['Total Refs.', 'Ref. / Doc.']",2.5473536713079277,1.5275421629871473
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Ref. / Doc.']",2.5499214547508386,1.461700312596568
+"['Total Docs. (2017)', 'Total Refs.', 'Citable Docs. (3years)', 'Ref. / Doc.']",2.5641190320364178,1.46558929969503
+"['Total Docs. (2017)', 'Total Refs.', 'Ref. / Doc.']",2.595763797115644,1.469812395665989
+"['Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)']",2.8198322340004336,1.6104340185321189
+"['Total Docs. (3years)', 'Citable Docs. (3years)']",2.8540942090611883,1.61797063115722
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Citable Docs. (3years)']",2.858358058415623,1.6103984909227855
+"['Total Docs. (3years)', 'Total Refs.']",2.861796162557063,1.6334123331495747
+"['Total Refs.', 'Citable Docs. (3years)']",2.861911385026187,1.6363548798978609
+"['Total Docs. (2017)', 'Total Docs. (3years)']",2.865022734071923,1.6293330292806487
+"['Total Docs. (2017)', 'Citable Docs. (3years)']",2.877257652081442,1.6325529991521086
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.', 'Citable Docs. (3years)']",2.877738018070813,1.6127715236548577
+"['Total Docs. (2017)', 'Total Docs. (3years)', 'Total Refs.']",2.914566156121016,1.6357434243441615
+"['Total Docs. (2017)', 'Total Refs.', 'Citable Docs. (3years)']",2.9232932212822877,1.6384980766936155
+"['Total Docs. (2017)', 'Total Refs.']",2.944669970666296,1.6424092708697782
