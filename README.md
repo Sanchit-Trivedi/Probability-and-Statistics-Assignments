@@ -1,3 +1,3 @@
-# Probablity-and-Statistics-Assignments
+# Probability-and-Statistics-Assignments
 
-Programming Assignments for the Probablilty and Statistics Course at IIIT Delhi
+Programming Assignments for the Probabililty and Statistics Course at IIIT Delhi
